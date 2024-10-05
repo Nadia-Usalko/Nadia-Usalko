@@ -3,7 +3,7 @@ I started learning data analytics to gain more skills for my previous job - Cust
 I started my data journey in 2023 with exploring spreadsheets, followed by SQL, Tableau and R. Google Data Analytics Professional Certificate was a powerful boost to my development.  
 I enjoy brainstorming creative solutions and go deep into detail to understand the areas of opportunity. :sunglasses:
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/nadia-usalko-530400260/)!
+Let's connect on [LinkedIn](https://www.linkedin.com/in/Nadia-usalko/)!
 
 <!---
 Nadia-Usalko/Nadia-Usalko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
